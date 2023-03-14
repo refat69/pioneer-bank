@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.pioneerBank-main{
+    padding-top: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+    display: none;
+    padding-top: 100px;
+}
+.status{
+    margin: 0 20px;
+    padding: 20px;
+    color: aqua;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: #fa0d0d;
+   
+}
+.withdaw{
+    background: #28d31c;
+
+}
+.balance{
+    background: #471cd3;
+}
